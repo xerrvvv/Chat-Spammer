@@ -25,9 +25,9 @@ print("""
 
 """)
 
-message = input("What Message would you like to spam? ") 
-repeats = int(input("How many times would you like to send this message? "))
-delay = int(input("How many ms do you want to wait in between each message being sent? "))
+message = input("obsidian raid ") 
+repeats = int(input("1017 "))
+delay = int(input("5 "))
 
 isloaded = input("Before your start, please get ready your chat box then, then press ENTER to start your spam")
 
